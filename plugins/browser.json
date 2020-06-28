@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "net.maxstuff.CatApp"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "net.maxstuff.CatApp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "net.maxstuff.CatApp"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "net.maxstuff.CatApp"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "net.maxstuff.CatApp"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "net.maxstuff.CatApp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "net.maxstuff.CatApp"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "net.maxstuff.CatApp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "net.maxstuff.CatApp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "net.maxstuff.CatApp"
+    }
+  }
+}
